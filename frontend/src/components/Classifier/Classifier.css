@@ -1,0 +1,15 @@
+.back {
+    
+    background: #efeeee;
+    border: 3px dashed #cfcccc;
+    border-radius: 5px;
+    width:100%;
+    margin: 10px 0;
+    padding: 75px 5px;
+    outline: none;
+    cursor: pointer;
+}
+
+.back:hover{
+    border: px dashed black;
+}
